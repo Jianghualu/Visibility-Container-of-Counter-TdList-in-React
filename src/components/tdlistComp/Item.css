@@ -1,0 +1,10 @@
+.text-container {
+  border: 1px solid lightgrey;
+  /* text-align: left; */
+}
+
+.text-container button {
+  /* padding: 5px; */
+  margin: 10px;
+  width: 15%;
+}

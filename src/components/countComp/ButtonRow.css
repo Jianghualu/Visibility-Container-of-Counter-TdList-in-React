@@ -1,0 +1,10 @@
+.button_container {
+  justify-content: "space-between";
+  margin: "10px 0";
+}
+
+.button_row button {
+  padding: 5px;
+  margin: 10px;
+  width: 25%;
+}
